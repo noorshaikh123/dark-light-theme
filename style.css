@@ -1,0 +1,27 @@
+
+.darkmode{
+    text-align: center;
+    background-color: #4d4d4d;
+    color: white;
+    margin: 0;
+}
+.lightmode{
+    background-color: white;
+    color: black;
+    margin: 0;
+    text-align: center;
+}
+.text-heading{
+    font-size: 40px;
+}
+.btn{
+    height: 30px;
+    width: 120px;
+    border-radius: 5px;
+    margin: 20px;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
